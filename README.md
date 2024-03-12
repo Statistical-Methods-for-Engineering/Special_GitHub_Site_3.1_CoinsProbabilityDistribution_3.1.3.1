@@ -3,7 +3,7 @@
 
 The course will be using JupyterLab Notebooks to support statistical concepts for Introductory Statistical Methods for Engineering. This is a special repository for the Part 3.1 Basic Probability of Events and Coin Flipping Examples and is example: 3.1.3.1
 
-# Interactive dashboard from notebook with Voilà
+# Interactive Notebook and Voilà
 
 | Voilà | JupyterLab |
 | :-----------------------: | :---------------------: |
