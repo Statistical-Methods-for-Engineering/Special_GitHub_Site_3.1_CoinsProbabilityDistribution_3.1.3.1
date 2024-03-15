@@ -7,7 +7,8 @@ The course will be using JupyterLab Notebooks to support statistical concepts fo
 
 | Voilà | JupyterLab |
 | :-----------------------: | :---------------------: |
-|   |   |
+|   |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Statistical-Methods-for-Engineering/Special_GitHub_Site_3.1_CoinsProbabilityDistribution_3.1.3.1/HEAD)
+Markdown icon |
 
 Click on the BinderHub launch here for a cloud service that allows users to share reproducible and interactive computing environments from code repositories.  Voila opens as an app and the JupyterLab opens as an interactive coding environment.
 
